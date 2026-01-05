@@ -1,5 +1,5 @@
 # Hi, I'm Hanif Sholihin 👋
-### Fullstack Developer | AI Automation Enthusiast | Technical Troubleshooter
+### Fullstack Developer | AI Automation Enthusiast
 
 Passionate about building scalable web applications and system architectures that streamline business operations. I enjoy turning complex business logic into clean code, often leveraging AI automation to eliminate repetitive manual processes.
 
