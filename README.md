@@ -7,7 +7,6 @@ Passionate about building scalable web applications and system architectures tha
 
 ### 🚀 Quick Overview
 - 🔭 **Current Focus**: Engineering real-time social media platforms and AI-driven automation tools.
-- 💡 **Background**: My experience in high-precision manufacturing (Yamaha Music) cultivated a rigorous Quality Control (QC) mindset that defines my standard for writing optimized, bug-free code.
 - 🤖 **Key Innovation**: Creator of **Admin AI Assistant**, a high-impact tool using Gemini AI to digitize manual workflows, reducing administrative tasks by up to 80%.
 - 🌱 **Learning Path**: Currently deep diving into **Go (Golang)** microservices and advanced **System Design**.
 - 📧 **Get in Touch**: [hanifsholihin884@gmail.com](mailto:hanifsholihin884@gmail.com)
