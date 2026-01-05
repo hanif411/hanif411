@@ -32,12 +32,6 @@ Passionate about building scalable web applications and system architectures tha
 
 ---
 
-### 📊 GitHub Activity
-![Hanif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hanif411&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif411&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-sholihin-319301246/)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
