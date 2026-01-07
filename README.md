@@ -1,40 +1,48 @@
-# Hi, I'm Hanif Sholihin 👋
-### Fullstack Developer | Tech Enthusiast
+# Hi, I'm Hanif Sholihin 🚀
+**Fullstack Developer | AI Automation & Scalable Systems**
 
-Passionate about building scalable web applications and system architectures that streamline business operations. I enjoy turning complex business logic into clean code, often leveraging AI automation to eliminate repetitive manual processes.
-
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanifsholihin411/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifsholihin884@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
+I don't just write code; I build solutions for business bottlenecks. My focus is on bridging complex business logic with efficient, high-performance software.
 
 ---
 
-### 🚀 Quick Overview
-- 🔭 **Current Focus**: Engineering real-time social media platforms and AI-driven automation tools.
-- 🤖 **Key Innovation**: Creator of **Admin AI Assistant**, a high-impact tool using Gemini AI to digitize manual workflows, reducing administrative tasks by up to 80%.
-- 🌱 **Learning Path**: Currently deep diving into **Go (Golang)** microservices and advanced **System Design**.
-- 📧 **Get in Touch**: [hanifsholihin884@gmail.com](mailto:hanifsholihin884@gmail.com)
+### 🛠️ Technical Expertise & Context
+Instead of just listing tools, here is how I use them to deliver value:
+
+* **Frontend (React.js, Next.js, TS):** Architecting SEO-friendly and highly interactive UIs with a focus on Core Web Vitals.
+* **Backend (Node.js, Go, Express):** Building robust RESTful APIs and real-time systems using Socket.io and Redis for zero-latency communication.
+* **AI Integration:** Implementing LLMs (Gemini AI) to automate manual workflows and data extraction.
+* **Database & DevOps:** Designing relational schemas (PostgreSQL) and managing deployments via Vercel and Docker.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 Featured Impact Projects
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232d.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) |
-| **Integrations** | ![Gemini AI](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Midtrans](https://img.shields.io/badge/Midtrans-Payment-blue?style=flat-square) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socketdotio) |
+#### 🤖 [Admin AI Assistant](https://adminaiassistant.vercel.app/)
+[cite_start]**The Problem:** Manual invoice entry and inventory syncing at Toko Imam Syafii were slow and error-prone[cite: 17, 36, 37].
+[cite_start]**The Solution:** An AI-driven automation tool that digitizes invoice extraction[cite: 18].
+[cite_start]**The Result:** **Reduced manual administrative tasks by 80%**[cite: 19].
+[cite_start]**Tech:** Next.js, Gemini AI API, Supabase, Axios[cite: 19].
+
+#### 💬 [Circle App](https://circle-fe.vercel.app/)
+**The Problem:** Building a social platform that feels instant and handles concurrent interactions without lag.
+[cite_start]**The Solution:** Developed a high-performance social networking platform with real-time threads[cite: 20, 21].
+[cite_start]**The Result:** Zero-latency communication achieved through **Socket.io** and **Redis** caching[cite: 21].
+[cite_start]**Tech:** Express.js, React.js, Redis, Socket.io, Prisma, PostgreSQL[cite: 22].
+
+#### 🛒 [Bolu Delight](https://ecommerce-food-sigma.vercel.app/)
+**The Problem:** Need for a secure, automated food e-commerce ecosystem with real-time payment updates.
+[cite_start]**The Solution:** Full-scale e-commerce with streamlined checkout and automated order status via Webhooks[cite: 24, 25].
+[cite_start]**Tech:** Next.js, Express.js, MongoDB, Zustand, Midtrans[cite: 26].
 
 ---
 
-### 🌟 Selected Projects
-
-* **[Admin AI Assistant](https://adminaiassistant.vercel.app/)** - AI automation tool digitizing manual workflows from invoices to inventory management.
-* **[Circle App](https://circle-fe.vercel.app/)** - Real-time social media platform utilizing Redis for caching and Socket.io for zero-latency interaction.
-* **[Bolu Delight](https://ecommerce-food-sigma.vercel.app/)** - Full-scale e-commerce integrated with Midtrans Payment Gateway and automated Webhooks.
+### 📈 Professional Background
+* [cite_start]**Fullstack Developer Trainee** at **Dumbways Indonesia**[cite: 31, 42].
+* **Ex-Production Operator** at **Yamaha Music Manufacturing Asia**. [cite_start]I bring a **Quality Control (QC) mindset** to software engineering—ensuring every commit is precise and bug-free[cite: 38, 40].
 
 ---
+
+### 📫 Connect with Me
+* [cite_start]**LinkedIn:** [linkedin.com/in/hanif-sholihin](https://www.linkedin.com/in/hanif-sholihin-319301246/) [cite: 2]
+* [cite_start]**Portfolio:** [portofolio-swart-two-54.vercel.app](https://portofolio-swart-two-54.vercel.app/) [cite: 2]
+* [cite_start]**Email:** [hanifsholihin884@gmail.com](mailto:hanifsholihin884@gmail.com) [cite: 2]
