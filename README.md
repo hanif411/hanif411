@@ -5,6 +5,12 @@ Passionate about building scalable web applications and system architectures tha
 
 ---
 
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-sholihin-319301246/)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
+
+---
+
 ### 🚀 Quick Overview
 - 🔭 **Current Focus**: Engineering real-time social media platforms and AI-driven automation tools.
 - 🤖 **Key Innovation**: Creator of **Admin AI Assistant**, a high-impact tool using Gemini AI to digitize manual workflows, reducing administrative tasks by up to 80%.
@@ -31,7 +37,3 @@ Passionate about building scalable web applications and system architectures tha
 * **[Bolu Delight](https://ecommerce-food-sigma.vercel.app/)** - Full-scale e-commerce integrated with Midtrans Payment Gateway and automated Webhooks.
 
 ---
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-sholihin-319301246/)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
