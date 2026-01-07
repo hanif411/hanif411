@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Hanif Sholihin | Fullstack Developer
+# 🚀 Hi, I'm Hanif Sholihin | Full Stack Developer
 ### Bridging AI Automation, Scalable Systems, and Precision Engineering
 
 I am a results-driven **Fullstack Developer** focused on transforming business bottlenecks into scalable digital solutions. With a background in high-precision manufacturing, I apply a **rigorous Quality Control (QC) mindset** to build AI-driven automation and real-time architectures. I believe in engineering systems that optimize operations and deliver a high-performance user experience.
