@@ -1,60 +1,55 @@
-# Hi, I'm Hanif Sholihin 🚀
-**Fullstack Developer | AI Automation & Scalable Systems Specialist**
+# 🚀 Hi, I'm Hanif Sholihin | Fullstack Developer
+### Bridging AI Automation, Scalable Systems, and Precision Engineering
 
-[cite_start]I am a Results-driven Fullstack Developer focusing on building scalable web applications and AI-driven automation[cite: 5]. [cite_start]With a background in high-precision manufacturing, I apply a rigorous Quality Control (QC) mindset to deliver optimized, scalable, and clean code[cite: 7]. I don't just write code; I build solutions for business bottlenecks.
+I am a results-driven **Fullstack Developer** focused on transforming business bottlenecks into scalable digital solutions. With a background in high-precision manufacturing, I apply a **rigorous Quality Control (QC) mindset** to build AI-driven automation and real-time architectures. I believe in engineering systems that optimize operations and deliver a high-performance user experience.
+
+---
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-sholihin-319301246/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifsholihin884@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanif411)
 
 ---
 
-### 📊 GitHub Stats & Activity
-![Hanif's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanif411&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanif411&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
+## 🛠️ Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232d.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-orange?style=flat-square) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socketdotio) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) |
+| **AI Integration** | ![Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) |
+| **Database & Cloud**| ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-### 🛠️ Technical Ecosystem
-Instead of just listing tools, here is how I leverage them to create impact:
+## 🌟 Featured Projects
 
-* **Frontend Architecture:** [cite_start]Building interactive UIs using **React.js** and **Next.js**[cite: 11, 43], [cite_start]with state management via **Zustand** or **Redux**[cite: 11, 26]. Focused on SEO and performance optimization.
-* **Backend & API Design:** [cite_start]Developing robust **RESTful APIs** using **Node.js (Express)** and **Go (Golang)**[cite: 10, 12]. [cite_start]Experienced in **Prisma ORM** for type-safe database interactions[cite: 12, 22].
-* **Real-time & AI:** [cite_start]Implementing zero-latency systems with **Socket.io**[cite: 14, 21] and [cite_start]automating complex workflows using **Gemini AI API**[cite: 14, 18, 19].
-* **Data Persistence:** [cite_start]Designing and managing **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis** for efficient data handling and caching[cite: 13, 21, 22, 26].
+### 🤖 [Admin AI Assistant](https://adminaiassistant.vercel.app/)
+**Next.js 14 | Gemini AI | Supabase | TypeScript**
+* Developed an automation engine to digitize manual invoice extraction, solving operational bottlenecks at Toko Imam Syafii.
+* Engineered a seamless integration with **Gemini AI** to reduce manual administrative tasks by **80%**.
 
----
+### 💬 [Circle App - Real-time Network](https://circle-fe.vercel.app/)
+**React Vite | Express.js | Redis | Socket.io | PostgreSQL**
+* Built a high-concurrency social platform featuring real-time threads and instant messaging.
+* Optimized performance using **Redis caching** and **Socket.io**, achieving zero-latency interactions for likes and notifications.
 
-### 🚀 Featured High-Impact Projects
-
-#### 🤖 [Admin AI Assistant](https://adminaiassistant.vercel.app/)
-* [cite_start]**Problem:** Manual invoice entry and inventory syncing at Toko Imam Syafii were slow and error-prone[cite: 17, 36, 37].
-* [cite_start]**Solution:** Engineered an automation tool using **Gemini AI** to digitize manual invoice extraction[cite: 18].
-* [cite_start]**Impact:** **Reduced manual administrative tasks by 80%**[cite: 19].
-* [cite_start]**Stack:** Next.js, Gemini AI API, Supabase, Axios[cite: 19].
-
-#### 💬 [Circle App](https://circle-fe.vercel.app/)
-* **Problem:** The need for a high-performance social platform that handles concurrent interactions without lag.
-* [cite_start]**Solution:** Developed a real-time social networking platform featuring threads and instant messaging[cite: 20, 21].
-* [cite_start]**Impact:** Achieved zero-latency communication through **Socket.io** and **Redis** caching[cite: 21].
-* [cite_start]**Stack:** Express.js, React.js, Redis, Socket.io, Prisma, PostgreSQL[cite: 22].
-
-#### 🛒 [Bolu Delight](https://ecommerce-food-sigma.vercel.app/)
-* **Problem:** Building a secure food e-commerce ecosystem with automated payment verification.
-* [cite_start]**Solution:** Architected a full-scale e-commerce platform with **Midtrans Payment Gateway** integration[cite: 23, 25].
-* [cite_start]**Impact:** Automated order status updates via secure **Webhooks**[cite: 25].
-* [cite_start]**Stack:** Next.js, Express.js, MongoDB, Zustand, Midtrans[cite: 26].
+### 🛒 [Bolu Delight - Secure E-Commerce](https://ecommerce-food-sigma.vercel.app/)
+**Next.js | Express.js | MongoDB | Midtrans Payment**
+* Architected a full-scale food e-commerce ecosystem with secure automated payment verification.
+* Integrated **Midtrans Webhooks** for automated order lifecycle management and real-time status updates.
 
 ---
 
-### 📈 Career & Education
-* [cite_start]**Fullstack Developer Trainee** | **Dumbways Indonesia** (2025)[cite: 31, 42].
-    * [cite_start]Developed 5+ industry-standard applications within an Agile/Scrum environment[cite: 32].
-* [cite_start]**Retail Admin & Marketing** | **Toko Imam Syafii** (2024 - 2025)[cite: 36].
-    * [cite_start]Identified operational bottlenecks, leading to the creation of the Admin AI Assistant[cite: 37].
-* [cite_start]**Production Operator** | **Yamaha Music Manufacturing Asia** (2020 - 2022)[cite: 38].
-    * [cite_start]Maintained 100% SOP adherence; bringing a rigorous **Quality Control (QC) mindset** to software engineering[cite: 39, 40].
+## 📈 Engineering Background
+* **Fullstack Developer Trainee** | *Dumbways Indonesia* (2025)
+* **Retail Admin & Marketing** | *Toko Imam Syafii* (2024 - 2025)
+* **Production Operator** | *Yamaha Music Manufacturing Asia* (2020 - 2022)
 
 ---
 
-### 📫 Let's Connect!
-* [cite_start]**LinkedIn:** [Hanif Sholihin](https://www.linkedin.com/in/hanif-sholihin-319301246/)[cite: 2]
-* [cite_start]**Portfolio:** [Live Website](https://portofolio-swart-two-54.vercel.app/)[cite: 2]
-* [cite_start]**Email:** [hanifsholihin884@gmail.com](mailto:hanifsholihin884@gmail.com)[cite: 2]
-* [cite_start]**GitHub:** [hanif411](https://github.com/hanif411)[cite: 3]
+### 💡 Engineering Philosophy
+*"I don't just write code; I engineer robust solutions with a Zero-Defect mindset to optimize human-to-digital interactions."*
