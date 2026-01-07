@@ -29,8 +29,9 @@ I am a results-driven **Fullstack Developer** focused on transforming business b
 
 ### 🤖 [Admin AI Assistant](https://adminaiassistant.vercel.app/)
 **Next.js 14 | Gemini AI | Supabase | TypeScript**
-* Developed an automation engine to digitize manual invoice extraction, solving operational bottlenecks at Toko Imam Syafii.
-* Engineered a seamless integration with **Gemini AI** to reduce manual administrative tasks by **80%**.
+* **The Problem:** Manual invoice entry and inventory syncing at Toko Imam Syafii were slow and prone to 15-20% human error.
+* **The Solution:** Engineered an intelligent automation tool that uses **Generative AI** to extract data from physical invoices and sync it directly to the database.
+* **Result:** Reduced manual administrative workload by **80%** and eliminated data entry duplication.
 
 ### 💬 [Circle App - Real-time Network](https://circle-fe.vercel.app/)
 **React Vite | Express.js | Redis | Socket.io | PostgreSQL**
@@ -39,15 +40,9 @@ I am a results-driven **Fullstack Developer** focused on transforming business b
 
 ### 🛒 [Bolu Delight - Secure E-Commerce](https://ecommerce-food-sigma.vercel.app/)
 **Next.js | Express.js | MongoDB | Midtrans Payment**
-* Architected a full-scale food e-commerce ecosystem with secure automated payment verification.
-* Integrated **Midtrans Webhooks** for automated order lifecycle management and real-time status updates.
-
----
-
-## 📈 Engineering Background
-* **Fullstack Developer Trainee** | *Dumbways Indonesia* (2025)
-* **Retail Admin & Marketing** | *Toko Imam Syafii* (2024 - 2025)
-* **Production Operator** | *Yamaha Music Manufacturing Asia* (2020 - 2022)
+* **The Problem:** Managing manual payment verification is a bottleneck for scaling food delivery businesses.
+* **The Solution:** Architected a full-stack e-commerce platform with **Midtrans Payment Gateway** integration, utilizing **Webhooks** for automated order status transitions.
+* **Result:** Fully automated the "Order-to-Delivery" pipeline, ensuring secure transactions without manual intervention.
 
 ---
 
