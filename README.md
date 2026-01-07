@@ -6,7 +6,8 @@ Passionate about building scalable web applications and system architectures tha
 ---
 
 ### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanif-sholihin-319301246/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanifsholihin411/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifsholihin884@gmail.com)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://portofolio-swart-two-54.vercel.app/)
 
 ---
