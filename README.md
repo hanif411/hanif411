@@ -95,7 +95,6 @@ Full Stack Developer with hands-on experience building end-to-end web applicatio
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=hanif411&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=hanif411&layout=compact&theme=default)
 ![Streak](https://streak-stats.demolab.com?user=hanif411&theme=default)
 ![Activity Graph](https://activity-graph.vercel.app/graph?username=hanif411&theme=github)
 
