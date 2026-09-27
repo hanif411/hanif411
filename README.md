@@ -1,83 +1,103 @@
-# 🚀 Hi, I'm Hanif Sholihin | Full Stack Developer
-### +62 815-1624-951 | hanifsholihin884@gmail.com | Bekasi
+# Hanif Sholihin
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanifsholihin411/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifsholihin884@gmail.com)
-[![Portfolio](https://img.shields.io/badge/My_Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://hanifsholihin.my.id)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hanif411)
+**Full Stack Developer**
 
----
++62 815-1624-951 · [hanifsholihin884@gmail.com](mailto:hanifsholihin884@gmail.com) · Bekasi
 
-## 📋 Summary
-
-Full Stack Developer with 2+ years building production systems, from banking APIs (Bank Papua integration) to AI-powered automation tools. Strong in Go, Next.js, PostgreSQL optimization, and payment gateway integration (Midtrans). Reduced manual processing time 80% through intelligent automation.
+[LinkedIn](https://www.linkedin.com/in/hanifsholihin411/) ·
+[GitHub](https://github.com/hanif411) ·
+[Portfolio](https://www.hanifsholihin.my.id/)
 
 ---
 
-## 🛠️ Technical Toolbox
+## Summary
 
-| Category | Tools & Technologies |
+Full Stack Developer with hands-on experience building end-to-end web applications, specializing in Go, Next.js, and AI automation. Proven track record in architecting secure banking APIs and AI-driven tools that reduce manual processing time by 80%. Committed to delivering scalable, production-ready infrastructure and clean code in Agile environments.
+
+---
+
+## Skills
+
+| Category | Technologies |
 | :--- | :--- |
-| **Languages** | Go, Python, JavaScript, TypeScript, HTML5, CSS3 |
+| **Programming Languages** | Go (Golang), JavaScript, TypeScript, Python |
 | **Frontend** | React.js, Next.js, Tailwind, Zustand, Redux, TanStack Query |
-| **Backend** | Gin, Node.js, Express.js, REST API, GORM, PostgreSQL, MySQL, MongoDB, Redis |
-| **DevOps & Tools** | Docker, GitHub Actions (CI/CD), Nginx, Proxmox VE, Linux Server Administration |
+| **Backend & Databases** | Gin, GoFiber, Node.js (Express), PostgreSQL, MongoDB, Redis, Kafka |
+| **DevOps** | Docker, GitHub Actions (CI/CD), Nginx, Linux Server, Prometheus, Grafana, Loki |
+| **Others** | Git/GitHub, Postman, Vercel, Figma |
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
-### Software Engineer | PT Digi Sistem Solusindo | Feb 2026 - Present
-- Engineered and enhanced backend APIs using Golang for seamless integration with Bank Papua, ensuring secure, stable, and high-integrity financial transactions.
-- Optimized application performance by implementing Redis Caching and streamlined system notifications through a robust SMTP Server integration.
-- Managed and optimized complex PostgreSQL queries, implementing efficient data searching techniques to handle large-scale banking data synchronization.
+### Software Engineer — PT Digi Sistem Solusindo
+`Feb 2026 – Present`
 
-### Full Stack Developer (Internship) | PT Dumbways Indonesia Teknologi | Oct 2025 - Jan 2026
-- Developed high-performance web applications using Golang and Next.js, implementing Redis caching to speed up API response times and user data retrieval.
-- Integrated Midtrans Payment Gateway and configured automated Webhooks with PostgreSQL, ensuring secure and automated order status synchronization.
-- Collaborated within an Agile/Scrum environment, participating in code reviews via Git/GitHub to maintain high-quality code and system stability.
+- Engineered and enhanced backend API using Golang for seamless integration with Bank, ensuring secure, stable, and high-integrity financial transactions.
+- Optimized system performance by implementing Redis Caching and complex PostgreSQL query tuning, significantly reducing API response times and streamlining SMTP server notifications.
+- Maintained system reliability by managing Linux deployments and monitoring real-time metrics via Prometheus, Grafana, and Loki, while responsibly utilizing AI coding tools to accelerate unit testing and verify code integrity.
+- Acted as a liaison between project stakeholders and the development team, collaborating with Project Manager, Team Lead, and Frontend Engineers.
 
-### IT & Digital Operations | Toko Imam Syafii | Jan 2024 - Aug 2025
-- Led the migration of POS systems from iPos to Azzam POS and Odoo, synchronizing inventory databases to maintain 100% data integrity between stock levels and sales reports.
-- Managed network infrastructure and hardware maintenance, delivering on-site and remote troubleshooting to ensure 100% system uptime for daily business operations.
+### Full Stack Developer (Internship) — PT Dumbways Indonesia Teknologi
+`Des 2025 – Jan 2026`
 
----
+- Developed scalable web applications using Go (Golang) and Next.js, implementing Redis caching and Socket.io to deliver high-performance, real-time user experiences with minimal latency.
+- Architected robust backend systems utilizing PostgreSQL and Prisma ORM, successfully integrating the Midtrans payment gateway and automated webhooks for secure, seamless transaction handling.
+- Collaborated within a fast-paced Agile team, actively participating in sprint planning and rigorous code reviews via Git/GitHub to maintain strict clean code standards and system stability.
 
-## 🎓 Education
+### IT & Digital Operations — Toko Imam Syafii
+`Jan 2024 – Aug 2025`
 
-**SMK NEGERI 3 KOTA BEKASI** | Computer and Network Engineer | 2020
-- Certified MTCNA with a solid foundation in network infrastructure and server administration.
-
----
-
-## 🌟 Featured Projects
-
-### 🧠 [Studyfi - AI-Powered Learning Platform](https://www.studyfi.my.id/)
-**Next.js | Gemini AI | SaaS**
-- Launched a commercial SaaS utilizing Generative AI to instantly transform complex materials into interactive quiz-based learning tools, optimizing user study efficiency.
-
-### 🤖 [Admin AI Assistant](https://adminaiassistant.vercel.app/)
-**Next.js 14 | Gemini AI | Supabase | TypeScript**
-- The Problem: Manual invoice entry and inventory syncing at Toko Imam Syafii were slow and prone to 15-20% human error.
-- The Solution: Engineered an intelligent automation tool that uses Generative AI to extract data from physical invoices and sync it directly to the database.
-- Result: Reduced manual administrative workload by 80% and eliminated data entry duplication.
-
-### 💬 [Circle App - Real-time Network](https://circle-fe.vercel.app/)
-**React Vite | Express.js | Redis | Socket.io | PostgreSQL**
-- Built a high-concurrency social platform featuring real-time threads and instant messaging.
-- Optimized performance using Redis caching and Socket.io, achieving zero-latency interactions for likes and notifications.
-
-### 🛒 [Bolu Delight - Secure E-Commerce](https://ecommerce-food-sigma.vercel.app/)
-**Next.js | Express.js | MongoDB | Midtrans Payment**
-- The Problem: Managing manual payment verification is a bottleneck for scaling food delivery businesses.
-- The Solution: Architected a full-stack e-commerce platform with Midtrans Payment Gateway integration, utilizing Webhooks for automated order status transitions.
-- Result: Fully automated the Order-to-Delivery pipeline, ensuring secure transactions without manual intervention.
-
-### 🏠 [Home Server Infrastructure & CI/CD Pipeline](https://github.com/hanif411)
-**Proxmox | Linux | Docker | GitHub Actions | Nginx**
-- Architected a personal home lab using Proxmox and Linux for efficient service isolation, automating deployments via GitHub Actions and Docker Compose with Nginx SSL.
+- Led the migration of legacy POS systems to Odoo ERP, synchronizing complex inventory databases to maintain data integrity between stock levels and sales reports.
+- Optimized WordPress performance and digital catalogs, ensuring smooth web operations and executing digital campaigns to support end-to-end business growth.
+- Managed comprehensive network infrastructure and hardware systems, providing remote and on-site troubleshooting to guarantee 100% system uptime for daily operations.
 
 ---
 
-## 💡 Engineering Philosophy
-*"I don't just write code; I engineer robust solutions with a Zero-Defect mindset to optimize human-to-digital interactions."*
+## Education
+
+### PT Dumbways Indonesia Teknologi
+`Sep 2025 – Nov 2025` — Full Stack Web Development Bootcamp
+
+- Mastered end-to-end development by architecting production-ready, high-concurrency web applications utilizing Go (Golang), Next.js, and Node.js.
+- Deepened database expertise by designing and optimizing robust relational and caching data structures with PostgreSQL, MySQL, and Redis.
+- Applied Agile/Scrum methodologies and strict clean code practices, executing rigorous code reviews via Git/GitHub to ensure long-term application scalability.
+
+### SMK NEGERI 3 KOTA BEKASI
+`Jul 2017 – Mar 2020` — Computer and Network Engineer
+
+- Certified MTCNA (MikroTik Certified Network Associate) with a solid foundation in server administration and network infrastructure.
+
+---
+
+## Projects
+
+### Educasi.id — AI-Powered Learning Platform
+[www.educasi.id](https://www.educasi.id) · `Golang` `Next.js` `RAG` `OpenAI/Gemini API` `Payment Gateway` `Email SMTP`
+
+- Architected an advanced AI learning platform featuring RAG (Retrieval-Augmented Generation) orchestration to process YouTube/PDF data and real-time live voice interactions.
+- Developed a robust backend using Golang and frontend with Next.js, seamlessly integrating a Payment Gateway and automated email notification system.
+
+### E-Commerce Platform — Bolu Delight
+[ecommerce-food-sigma.vercel.app](https://ecommerce-food-sigma.vercel.app) · `Next.js` `Express.js` `MongoDB` `Zustand` `Midtrans`
+
+- Architected a full-scale food e-commerce platform, delivering a streamlined checkout experience.
+- Integrated the Midtrans Payment Gateway and secure webhooks to automate real-time order status updates and ensure seamless transaction handling.
+
+### Home Server Infrastructure & CI/CD Pipeline
+`Proxmox VE` `Docker Compose` `GitHub Actions` `Nginx`
+
+- Architected a personal home lab using Proxmox VE (LXC) for application hosting and strict service isolation.
+- Automated deployment workflows via GitHub Actions and Docker Compose, streamlining CI/CD pipelines and configuring Nginx reverse proxies for SSL/TLS traffic management.
+
+---
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hanif411&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=hanif411&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hanif411)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hanif411)
+![Trophies](https://github-profile-trophy.vercel.app/?username=hanif411&theme=default)
+
+![Visitors](https://komarev.com/ghpvc/?username=hanif411)
